@@ -1,1 +1,1 @@
-# myset
+# OSS-Streamlit class
